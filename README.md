@@ -1,4 +1,4 @@
-# 🌱 Agriculture Assistant
+﻿# 🌱 Agriculture Assistant
 
 An AI-powered Android application designed to support farmers with crop health analysis, disease classification, weather information, crop records, farming tips, and multilingual audio guidance.
 
