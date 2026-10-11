@@ -70,19 +70,19 @@ The development evaluation also reported 98.43% precision and 97.56% recall for 
 
 ## 🖼️ Screenshots
 
-Add actual screenshots from your Android app to a folder named `screenshots/`.
+Add actual screenshots from your Android app to a folder named `Screenshots/`.
 
 | Dashboard | Crop Health |
 |---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Crop Health](screenshots/crop-health.png) |
+| ![Dashboard](Screenshots/dashboard.png) | ![Crop Health](Screenshots/crop-health.png) |
 
 | Crop Diary | Weather |
 |---|---|
-| ![Crop Diary](screenshots/crop-diary.png) | ![Weather](screenshots/weather.png) |
+| ![Crop Diary](Screenshots/crop-diary.png) | ![Weather](Screenshots/weather.png) |
 
 | Farming Tips | Audio Guide |
 |---|---|
-| ![Farming Tips](screenshots/farming-tips.png) | ![Audio Guide](screenshots/audio-guide.png) |
+| ![Farming Tips](Screenshots/farming-tips.png) | ![Audio Guide](Screenshots/audio-guide.png) |
 
 *The screenshot paths are placeholders. Add the corresponding image files to display them on GitHub.*
 
